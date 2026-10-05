@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения
+.venv/
+venv/
+.build-venv/
+
+# Сборка PyInstaller
+build/
+dist/
+*.spec
+
+# IDE и система
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ИНН входной
+inn.txt
+
+# Результаты проверки (генерируются скриптом)
+active.txt
+inactive.txt
+active_mock.txt
+inactive_mock.txt
